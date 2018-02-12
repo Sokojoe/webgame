@@ -1,0 +1,15 @@
+{
+  "name": "webgame",
+  "version": "1.0.0",
+  "description": "A singleplayer game played in the browser",
+  "main": "index.js",
+  "repository": "https://github.com/Sokojoe/webgame.git",
+  "author": "Sokojoe <sokojoey@gmail.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "webpack": "^3.11.0"
+  },
+  "dependencies": {
+    "pixi.js": "^4.7.0"
+  }
+}
